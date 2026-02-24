@@ -17,4 +17,3 @@ public class UseCase2 {
             System.out.println("Result: It is NOT a palindrome.");
         }
     }
-}
